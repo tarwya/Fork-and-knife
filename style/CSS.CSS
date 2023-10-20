@@ -1,0 +1,964 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'GrandHotel', 'Montserrat';
+}
+
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.head {
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+}
+
+.img2 {
+    height: 100%;
+    width: 72%;
+    margin-left: -185px;
+    background: url(/assets/bg1.png) no-repeat center/cover;
+}
+
+.img {
+    /* height: 100%; */
+    width: 40%;
+    background: url(/assets/img1.png) no-repeat center/cover;
+}
+
+.LOGO {
+    padding-left: 58px;
+    padding-top: 15px;
+}
+
+.st {
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    width: 100%;
+
+    margin-top: 15px;
+    /* margin-right: 89px; */
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgb(237, 235, 235);
+    margin-left: 201px;
+    font-size: large;
+    margin-right: -95px;
+    font-family: system-ui;
+}
+
+#glass {
+    color: #ffffff;
+    margin-left: 17%;
+    font-size: larger;
+    margin-top: 9px;
+}
+
+.header2 {
+    width: 60%;
+    height: 10%;
+    margin-left: 23%;
+    margin-top: 14%;
+}
+
+.TITLEHERE {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 110px;
+    color: #F6BC02;
+    margin-bottom: 16px;
+}
+
+.Lorem {
+    width: 100%;
+    font-size: 36px;
+    color: rgb(220, 222, 224);
+    font-family: sans-serif;
+    margin-top: -8px;
+}
+
+.ORDERNOW {
+    width: 41%;
+    height: 70%;
+    font-size: larger;
+    border-radius: 3px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: #F6BC02;
+    margin-top: 4px;
+    color: rgb(49, 49, 49);
+    border-color: rgb(0, 0, 0);
+}
+
+.part2 {
+    width: 100%;
+    height: 100%;
+}
+
+.samp2 {
+
+    display: inline-flex;
+    flex-direction: column;
+    align-items: baseline;
+    align-items: center;
+    /* justify-content: center; */
+    width: 100%;
+    margin-top: 4px
+}
+
+.BestSeller {
+    font-size: 73px;
+    font-family: 'Grand Hotel', cursive;
+
+}
+
+.dolor {
+    width: 45%;
+    font-size: 24px;
+    text-align: center;
+    margin-top: -73px;
+    color: rgb(40, 40, 40);
+    font-family: system-ui;
+}
+
+.card {
+    width: 15%;
+    margin-left: 13%;
+}
+
+.name {
+    margin-left: 60px;
+    font-size: 35px;
+    font-family: 'Grand Hotel', cursive;
+    margin-top: 10px;
+}
+
+.dis {
+    width: 118%;
+    margin-left: 24px;
+    color: rgb(65 57 57);
+    font-family: sans-serif;
+    margin-top: -27px;
+}
+
+.con {
+    width: 100%;
+    display: flex;
+    margin-top: 21px;
+}
+
+.part3 {
+    background: url(/assets/bg2.png) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+}
+
+.p1 {
+    display: flex;
+    width: 100%;
+    height: 68%;
+}
+
+.img5 {
+    width: 59%;
+    margin-top: 2%;
+    /* margin-right: -96px; */
+    margin-left: 195px;
+    display: flex;
+}
+
+.bb {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.head1 {
+    width: 60%;
+    height: 100%;
+    margin-left: 3%;
+    margin-top: 6%;
+}
+
+.ORDER {
+    width: 50%;
+    height: 8%;
+    font-size: x-large;
+    border-radius: 7px;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: #F6BC02;
+    margin-top: 20px;
+    color: rgb(49, 49, 49);
+    border-color: rgb(0, 0, 0);
+}
+
+.Loremm {
+    width: 91%;
+    font-size: 25px;
+    color: rgb(220, 222, 224);
+    font-family: sans-serif;
+
+}
+
+.part4 {
+    background: url(/assets/bg5.png) no-repeat;
+    /* background-size: cover; */
+    width: 100%;
+    height: 100%;
+    background-color: #303030;
+    background-position: bottom;
+}
+
+.clam {
+    width: 78%;
+    height: 100%;
+    /* margin-top: -8%; */
+    /* margin-top: 17%; */
+    text-align: center;
+}
+
+.Subscribe {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 91px;
+    color: #F6BC02;
+    margin-right: 41%;
+    margin-top: 3%;
+}
+
+.c {
+    margin-bottom: -18%;
+    /* text-align: -webkit-center; */
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    /* margin-right: 11%; */
+    width: 100%;
+}
+
+.ipsum {
+    width: 53%;
+    font-size: 27px;
+    color: rgb(220, 222, 224);
+    font-family: system-ui;
+    margin-top: 12%;
+    margin-left: 16%;
+    text-align: center;
+    margin-right: -34%;
+}
+
+.cin {
+    padding-top: 3%;
+}
+
+.allcr {
+
+    display: flex;
+    height: 29%;
+    margin-right: 147px;
+    margin-top: 22%;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.circl {
+    margin-left: 54px;
+    font-size: 25px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 100%;
+    width: 205px;
+    height: 93%;
+    /* height: 24%; */
+    /* height: 100%; */
+    border-width: thick;
+    text-align: unset;
+}
+
+.num {
+    font-size: 52px;
+    color: #F6BC02;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 65px;
+    margin-top: 24%;
+}
+
+.OUTLETS {
+    /* margin-top: 36px; */
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: initial;
+    margin-left: 5px;
+    margin-top: -20%;
+    text-align: -webkit-center;
+}
+
+.part5 {
+    background: url(/assets/bg4.png) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: bottom;
+    /* margin-top: -45px */
+}
+
+#head1 {
+    margin-left: 12%;
+}
+
+#Loremm {}
+
+#ORDER {
+    margin-left: 75px;
+}
+
+.part6 {
+    background: url(/assets/img7.png) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    margin-top: 142px;
+}
+
+.color {
+    opacity: .8;
+    background-color: #ffc400;
+    /* filter: contrast(100%) drop-shadow(0 0 0 rgb(255, 215, 16)); */
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.sitLenoraFields {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sit {
+    font-size: 39px;
+    width: 64%;
+    margin-left: 16%;
+    font-family: 'Montserrat', sans-serif;
+    color: #303030;
+}
+
+.LenoraFields {
+    font-size: 69px;
+    font-family: 'Grand Hotel', cursive;
+    color: #000000;
+    margin-top: 4px;
+    margin-right: 43px;
+}
+
+.part7 {
+    background: url(/assets/bg5.png) no-repeat;
+    /* background-size: cover; */
+    width: 100%;
+    height: 100%;
+}
+
+.last {
+    width: 100%;
+    height: 100%;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+}
+
+.sitt {
+    font-size: 29px;
+    width: 64%;
+    margin-left: 16%;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(34 34 34);
+    text-align: center;
+}
+
+.Subscribe1 {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 91px;
+    color: #2c2c2c;
+    margin-right: 44%;
+    margin-top: -8%;
+    margin-bottom: 48px;
+}
+
+.IN {
+    /* width: 100%;
+    height: 100%; */
+    display: flex;
+    justify-content: center;
+    margin-top: 82px;
+}
+
+.email {
+    width: 24%;
+    height: 150%;
+    border-radius: 2px;
+    border: #ffffff;
+    border-color: #ffffff;
+    box-shadow: 0 0 2px rgba(50, 46, 46, 0.3);
+}
+
+.SUBSCRIBE {
+    width: 10%;
+    height: 163%;
+    font-size: 21px;
+    font-family: monospace;
+    font-weight: bold;
+    background-color: #ffc400;
+    border-radius: 2px;
+    border-color: #ffc400;
+    color: #363636;
+}
+
+.part8 {
+    background-color: #303030;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.p2 {
+    width: 29%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: left;
+    margin-left: 8%;
+}
+
+.HERE {
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: 750;
+    margin-bottom: 5px;
+}
+
+.elit {
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(234, 234, 234);
+    width: 106%;
+}
+
+.allfut {
+    width: 100%;
+    /* height: 100%; */
+    display: flex;
+    margin-left: 100px;
+    margin-left: 37px;
+    justify-content: space-evenly;
+}
+
+.aa {
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: 750;
+    margin-bottom: 5px;
+}
+
+.History {
+    color: rgb(235, 234, 234);
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fa-brandsfa-instagram {
+    width: 50%;
+    background-color: white;
+    height: 20%;
+}
+
+.fa-brandsfa-facebook {
+    width: 50%;
+    background-color: white;
+    height: 20%;
+
+}
+
+.fa-brandsfa-twitter {
+
+    width: 50%;
+    background-color: white;
+    height: 20%;
+}
+
+.fa-brandsfa-whatsapp {
+    background-color: white;
+    width: 23%;
+    height: 85%;
+    border-radius: 20px;
+
+
+}
+
+.brandss {
+    display: flex;
+    margin-right: 175px;
+    justify-content: space-between;
+    /* background-color: white;
+    width: 23%;
+    height: 85%;
+    border-radius: 20px; */
+}
+
+.brands {
+    background-color: white;
+    width: 21%;
+    height: 53%;
+    border-radius: 50%;
+    margin-right: -23px;
+    text-align: center;
+    margin-top: 6px;
+}
+
+#img54 {
+    height: 54%;
+    margin-left: 12%;
+    margin-top: -14%;
+}
+
+#head1 {}
+
+
+@media (max-width: 375px) {
+
+    .mediaa {
+        width: 100%;
+        /* height: 100%; */
+    }
+
+    .img {
+        width: 40%;
+        height: 51%;
+        background-size: contain;
+        margin-right: 35px;
+
+    }
+
+    .img2 {
+        height: 198px;
+        width: 74%;
+        margin-left: -84px;
+        background-size: 100%;
+    }
+
+    .header {
+        margin-right: 21px;
+    }
+
+    #glass {
+        color: #ffffff;
+        margin-left: 26%;
+        font-size: xx-small;
+        margin-top: 4px;
+    }
+
+    .navbar a {
+        margin-left: 46px;
+        font-size: xx-small;
+        margin-right: -39px
+    }
+
+    .LOGO {
+        padding-left: 0%;
+        padding-top: 0%;
+        font-size: 7px;
+        margin-left: 2px;
+    }
+
+    .st {
+        font-size: larger;
+    }
+
+    .navbar {
+        display: flex;
+        margin-top: 3px;
+        /* margin-left: -213%; */
+        justify-content: center;
+        /* align-items: baseline; */
+    }
+
+    .head {
+        height: 67%;
+    }
+
+    .ORDERNOW {
+        width: 47%;
+        height: 76%;
+        font-size: 5px;
+
+    }
+
+
+    .Lorem {
+        font-size: 8px;
+    }
+
+    .dolor {
+        width: 86%;
+        font-size: 10px;
+        margin-left: -1px;
+        margin-top: -26px;
+
+    }
+
+    .BestSeller {
+        font-size: 28px;
+        margin-right: 13px;
+    }
+
+    .card {
+        width: 100%;
+        margin-left: -12px;
+    }
+
+    .samp2 {
+        margin-top: 30px;
+    }
+
+    .food {
+        width: 55%;
+        margin-left: 35px;
+    }
+
+    .con {
+        width: 88%;
+        margin-left: 19px;
+    }
+
+    .name {
+        margin-left: 42px;
+        font-size: inherit;
+    }
+
+    .dis {
+        margin-left: 31px;
+        width: 91%;
+        font-size: 7px;
+        margin-top: -8px;
+    }
+
+    .part2 {
+        margin-top: -61%;
+        width: 100%;
+        height: 44%;
+    }
+
+    .part3 {
+        height: 29%;
+        background-size: cover;
+        margin-top: 43%;
+    }
+
+    .img5 {
+        height: 29%;
+        background-size: cover;
+        margin-top: 43%;
+
+    }
+
+    .head1 {
+        width: 60%;
+        margin-left: -51%;
+        margin-top: 11%;
+
+    }
+
+    #Loremm {
+        width: 73%;
+        margin-top: -10px;
+    }
+
+    .Loremm {
+        font-size: 8px;
+        font-family: revert;
+
+    }
+
+    .TITLEHERE {
+        font-size: 27px;
+        margin-top: -17px;
+    }
+
+    .ORDER {
+        width: 53%;
+        height: 12%;
+        margin-top: 1px;
+        font-size: 7px;
+        border-radius: 3px;
+
+    }
+
+    .c {
+        margin-bottom: -19%;
+        width: 100%;
+        margin-left: -18px;
+    }
+
+    .ipsum {
+        width: 77%;
+        font-size: 9px;
+        margin-top: 49%;
+        margin-left: -49%;
+        margin-right: -54%;
+    }
+
+    .Subscribe {
+        font-size: 36px;
+        margin-top: 131px;
+        margin-left: 3px;
+        margin-right: 35%;
+
+    }
+
+    .allcr {
+        margin-right: 40px;
+        margin-left: 13px;
+        height: 20%;
+    }
+
+    .circl {
+        width: 52px;
+        margin-left: 18px;
+        height: 56%;
+        border-width: thin;
+    }
+
+    .num {
+        font-size: 15px;
+        margin-left: 14px;
+        margin-top: 14%;
+    }
+
+    .OUTLETS {
+        margin-left: 2px;
+        width: -9%;
+        height: 4%;
+        font-size: 7px;
+    }
+
+    .part4 {
+        height: 73%;
+        background-position: 0%;
+        background-size: contain;
+        margin-top: -11px;
+        margin-top: -74px;
+
+    }
+
+    .part5 {
+        background-size: 100%;
+        margin-top: -59px;
+        height: 35%;
+    }
+
+    #img5 {
+        height: 63%;
+        margin-top: 7%;
+        margin-left: -22%;
+    }
+
+    .bb {
+
+        margin-top: -28%;
+        width: 100%;
+
+    }
+
+    #head1 {
+        margin-left: 8%;
+        margin-top: 27%;
+        text-align: left;
+        width: 100%;
+
+    }
+
+    #ORDER {
+        margin-left: -5px;
+        height: 21px;
+        font-size: 7px;
+        width: 36%;
+    }
+
+    #head3 {
+        width: 100%;
+        margin-left: 16%;
+        margin-top: 33%;
+    }
+
+    #img54 {
+        height: 73%;
+        margin-left: 4%;
+        margin-top: -1%;
+    }
+
+    .sitLenoraFields {}
+
+    .part6 {
+        height: 36%;
+        margin-top: 49px;
+
+    }
+
+    .sit {
+        font-size: 13px;
+        color: #000000;
+        width: 74%;
+
+    }
+
+    .LenoraFields {
+        margin-right: 7px;
+        font-size: 26px;
+    }
+
+    .part7 {
+        height: 29%;
+        background-size: 100%;
+        margin-top: 25px;
+    }
+
+    .last {
+        justify-content: space-evenly;
+    }
+
+    .Subscribe1 {
+        font-size: 34px;
+        margin-bottom: -37px;
+        margin-right: 38%;
+        margin-top: -16%;
+    }
+
+    .sitt {
+        font-size: 10px;
+        width: 80%;
+        margin-left: 8%;
+        margin-top: -10%;
+        height: 121px;
+
+    }
+
+
+    .IN {
+        margin-top: -42%;
+
+    }
+
+    .email {
+        width: 50%;
+        height: 101%;
+    }
+
+    .SUBSCRIBE {
+        height: 101%;
+        font-size: 10px;
+        width: 22%;
+    }
+
+
+
+    .part8 {
+        height: 41%;
+        background-size: 100%;
+        justify-content: space-evenly;
+    }
+
+    .p2 {
+        width: 92%;
+        height: 42%;
+        margin-right: -23px;
+        margin-left: 1%;
+        margin-top: 65px;
+    }
+
+    .HERE {
+        font-size: xx-small;
+
+    }
+
+    .elit {
+        font-size: 8px;
+        width: 87%;
+    }
+
+    .allfut {
+        margin-left: -2px;
+    }
+
+    .History {
+        font-size: 7px;
+    }
+
+    .aa {
+        font-size: xx-small;
+    }
+
+    .brandss {
+        margin-right: 102px;
+
+    }
+
+
+    .brands {
+        background-color: white;
+        width: 21%;
+        height: 45%;
+        border-radius: 50%;
+        margin-right: 2px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
